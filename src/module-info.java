@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author rferrare
+ *
+ */
+module chessSystem {
+}
